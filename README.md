@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sema ˚˖𓍢ִ໋🌷͙֒✧🩷˚.🎀༘⋆  
 <br>
-👩🏻‍💻 I'm a cybersecurity student based in Baku, Azerbaijan.💫 I'm a junior web developer<br>🌱 I’m currently learning PHP<br>👯 I’m looking to collaborate with other developers<br>📩 How to reach me: semarhmva2003@gmail.com<br><br>
+👩🏻‍💻 I'm a cybersecurity student based in Baku, Azerbaijan.<br>👾 I'm a junior web developer<br>🌱 I’m currently learning PHP<br>👯 I’m looking to collaborate with other developers<br>📧 How to reach me: semarhmva2003@gmail.com<br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/943634140283162675) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jusddsky) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sema-rehimova-b2732027a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGFWhZjuBTRit%2Bqlt%2Fn93qw%3D%3D) 
