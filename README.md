@@ -1,4 +1,5 @@
-Hi 👋, I'm Sema ˚˖𓍢ִ໋🌷͙֒✧🩷˚.🎀༘⋆
+# Hi 👋, I'm Sema ˚˖𓍢ִ໋🌷͙֒✧🩷˚.🎀༘⋆  
+<br>
 👩🏻‍💻 I'm a cybersecurity student based in Baku, Azerbaijan.💫 I'm a junior web developer<br>🌱 I’m currently learning PHP<br>👯 I’m looking to collaborate with other developers<br>📩 How to reach me: semarhmva2003@gmail.com<br><br>
 
 ## 🌐 Socials:
