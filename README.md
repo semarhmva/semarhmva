@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sema ˚˖𓍢ִ໋🌷͙֒✧🩷˚.🎀༘⋆  
+# Hi 👋, I'm Sama ˚˖𓍢ִ໋🌷͙֒✧🩷˚.🎀༘⋆  
 <br>
 👩🏻‍💻 I'm a cybersecurity student based in Baku, Azerbaijan.<br>
 
